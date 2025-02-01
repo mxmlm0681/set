@@ -1,4 +1,4 @@
 #
 Classes, inheritance
 
-[![Build status](https://ci.appveyor.com/api/projects/status/nqxdjry73c8h72ow?svg=true)](https://ci.appveyor.com/project/mxmlm0681/classes-inheritance)
+[![Build status](https://ci.appveyor.com/api/projects/status/t0vxu5rnlvgdkwg4?svg=true)](https://ci.appveyor.com/project/mxmlm0681/set)
